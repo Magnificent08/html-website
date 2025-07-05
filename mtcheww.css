@@ -1,0 +1,53 @@
+body {
+  background: linear-gradient(90deg, #000, #555);
+  text-align: center;
+}
+
+h1 {
+  color: white;
+  text-transform: uppercase;
+  letter-spacing: 4px;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-size: 300px;
+}
+
+p{
+  color: white;
+  font-family :'Times New Roman', Times, serif;
+  text-align: center;
+}
+
+h2 {
+  color: white;
+  text-align: center;
+  font-size: xx-large;
+  text-transform: uppercase;
+  font-family:'Times New Roman', Times, serif;
+}
+
+section{
+  margin: 100px;
+}
+
+.listt {
+  text-align: center;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+
+  }
+
+li {
+  display: inline;
+  margin-right: 50px;
+}
+
+a {
+  color: white;
+}
+
+footer{
+  color: white;
+  text-align: center;
+}
+ 
